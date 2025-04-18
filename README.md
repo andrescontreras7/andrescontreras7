@@ -15,11 +15,6 @@ Cuando no estoy trabajando en código, disfruto explorando nuevas tecnologías y
 
 ---
 
-## 📫 Conéctate conmigo  
-- **Correo:** [tu-email@example.com](mailto:tu-email@example.com)  
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)  
-- **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com)  
-
 ---
 
 ## 🌱 Actualmente estoy aprendiendo  
